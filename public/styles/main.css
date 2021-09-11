@@ -1,0 +1,49 @@
+.title_primaire_ecole{
+ border: dashed 6px #000;
+ text-align: center;
+ padding: 10px;
+ background-color: tomato;
+ color: azure;
+ border-radius: 8px;
+ font-size: 5rem;
+ font-weight: bold;
+ font-style: italic;
+
+}
+
+.title_second_ecole{
+    color: #ff0000;
+    font-weight: 900;
+    margin-top: 50px;
+    
+}
+
+.image-ecole{
+    width: 100%;
+    height: 400px;
+    margin-bottom: 20px;
+    
+}
+
+.profil{
+    color: tomato;
+}
+
+.card-table{
+    background-color: black;
+    color: #fff;
+}
+
+.experience{
+    border: 2px dashed cornflowerblue;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.ecole{
+    color: red;
+    text-transform: capitalize;
+}
